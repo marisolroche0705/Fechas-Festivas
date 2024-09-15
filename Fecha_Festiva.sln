@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fecha_Festiva.Core", "Fecha_Festiva.Core\Fecha_Festiva.Core.csproj", "{22FAAF5D-447C-4CB3-9216-F35443EFB74C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fecha_Festiva.Dominio", "Fecha_Festiva.Dominio\Fecha_Festiva.Dominio.csproj", "{FFB356D3-4F4A-416E-B8F2-9E5262AC43C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22FAAF5D-447C-4CB3-9216-F35443EFB74C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22FAAF5D-447C-4CB3-9216-F35443EFB74C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22FAAF5D-447C-4CB3-9216-F35443EFB74C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22FAAF5D-447C-4CB3-9216-F35443EFB74C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFB356D3-4F4A-416E-B8F2-9E5262AC43C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFB356D3-4F4A-416E-B8F2-9E5262AC43C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFB356D3-4F4A-416E-B8F2-9E5262AC43C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFB356D3-4F4A-416E-B8F2-9E5262AC43C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1C97783-0CAB-4478-8ED3-95C6145D0ACA}
+	EndGlobalSection
+EndGlobal
