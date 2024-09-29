@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Entidades\Festivos.cs" />
+    <Compile Include="Entidades\Seleccion.cs" />
     <Compile Include="Entidades\Tipo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
